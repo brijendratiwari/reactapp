@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.6bc5cc91.js",
-    "static/js/592.0f1fe67e.chunk.js": "/static/js/592.0f1fe67e.chunk.js",
-    "static/media/ignislogo.png": "/static/media/ignislogo.0ab1451ed7166a616864.png",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.6bc5cc91.js.map": "/static/js/main.6bc5cc91.js.map",
-    "592.0f1fe67e.chunk.js.map": "/static/js/592.0f1fe67e.chunk.js.map"
+    "main.css": "/reactapp/static/css/main.f855e6bc.css",
+    "main.js": "/reactapp/static/js/main.5697d875.js",
+    "static/js/592.0f1fe67e.chunk.js": "/reactapp/static/js/592.0f1fe67e.chunk.js",
+    "static/media/ignislogo.png": "/reactapp/static/media/ignislogo.0ab1451ed7166a616864.png",
+    "index.html": "/reactapp/index.html",
+    "main.f855e6bc.css.map": "/reactapp/static/css/main.f855e6bc.css.map",
+    "main.5697d875.js.map": "/reactapp/static/js/main.5697d875.js.map",
+    "592.0f1fe67e.chunk.js.map": "/reactapp/static/js/592.0f1fe67e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.6bc5cc91.js"
+    "static/js/main.5697d875.js"
   ]
 }
